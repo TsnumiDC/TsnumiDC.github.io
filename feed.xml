@@ -1,40 +1,327 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dylan IT</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://example.com/</link>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Aug 2016 17:53:38 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 17:53:38 +0800</lastBuildDate>
+    <title>Dylan IT Blog</title>
+    <description>ON MY WAY</description>
+    <link>http://tsnumidc.github.io/</link>
+    <atom:link href="http://tsnumidc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Aug 2016 18:03:17 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 18:03:17 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>I HAVE A DREAM</title>
+        <description>&lt;p&gt;from underneath the trees, we watch the sky 
+躺在树下，遥望天际
+confusing stars for satellites 
+头顶是繁星还是卫星，我们分不清
+i never dreamed that you’d be mine 
+我从来不敢梦想拥有你
+but here we are, we’re here tonight 
+而今夜，我们在这里，我们在一起
+singing amen, i’m alive… 
+歌颂着阿门，我充满活力
+singing amen, i’m alive… 
+歌颂着阿门，我感受到自己的存在
+if everyone cared and nobody cried 
+如果人人互相关心，就不会有泪水
+if everyone loved and nobody lied 
+如果人人互相关爱，就不会有谎言
+if everyone shared and swallowed their pride 
+如果人人互相分享，咽下心中的狂妄
+we’d see the day when nobody died 
+我们将见证，所有人的永生
+and i’m singing 
+我歌颂着
+amen i…, i’m alive 
+阿门，我充满活力
+amen i…, i’m alive 
+阿门，我感受到自己的存在
+and in the air the fireflies 
+看天空中的萤火啊
+our only light in paradise 
+那是我们的天堂唯一的光明
+we’ll show the world they were wrong 
+我们要让世人看看他们错了
+and teach them all to sing along 
+要教给他们如何共同歌颂
+singing amen i’m alive… 
+歌颂着阿门，我充满活力
+singing amen i’m alive… 
+歌颂着阿门，我感受到自己的存在
+if everyone cared and nobody cried 
+如果人人互相关心，就不会有泪水
+if everyone loved and nobody lied 
+如果人人互相关爱，就不会有谎言
+if everyone shared and swallowed their pride 
+如果人人互相分享，咽下心中的狂妄
+we’d see the day when nobody died 
+我们将见证，所有人的永生
+if everyone cared and nobody cried 
+如果人人互相关心，就不会有泪水
+if everyone loved and nobody lied 
+如果人人互相关爱，就不会有谎言
+if everyone shared and swallowed their pride 
+如果人人互相分享，咽下心中的狂妄
+we’d see the day when nobody died nobody died 
+我们将见证，所有人的永生&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;and as we lie beneath the stars 
+躺在繁星之下
+we realize how small we are 
+感觉自己是如此的渺小
+if they could love like you and me 
+如果人人想你我一样珍爱彼此
+imagine what the world could be 
+世界将会怎样
+if everyone cared and nobody cried 
+如果人人互相关心，就不会有泪水
+if everyone loved and nobody lied 
+如果人人互相关爱，就不会有谎言
+if everyone shared and swallowed their pride 
+如果人人互相分享，咽下心中的狂妄
+we’d see the day when nobody died 
+我们将见证，所有人的永生
+if everyone cared and nobody cried 
+如果人人互相关心，就不会有泪水
+if everyone loved and nobody lied 
+如果人人互相关爱，就不会有谎言
+if everyone shared and swallowed their pride 
+如果人人互相分享，咽下心中的狂妄
+we’d see the day when nobody died 
+我们将见证，所有人的永生
+we’d see the day, we’d see the day 
+我们一定会见证，一定会见证
+when nobody died 
+所有人的永生
+we’d see the day, we’d see the day nobody died 
+我们一定会见证，一定会见证
+we’d see the day when nobody died 
+所有人的永生&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Aug 2016 15:47:03 +0800</pubDate>
-        <link>http://example.com/jekyll/update/2016/08/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://example.com/jekyll/update/2016/08/17/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 13 May 2016 00:31:43 +0800</pubDate>
+        <link>http://tsnumidc.github.io/stories/2016/05/13/welcome-to-jekyll-copy-200.html</link>
+        <guid isPermaLink="true">http://tsnumidc.github.io/stories/2016/05/13/welcome-to-jekyll-copy-200.html</guid>
         
         
-        <category>jekyll</category>
+        <category>Stories</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Viva la Vida</title>
+        <description>&lt;p&gt;I used to rule the world 
+大千世界曾由我主宰
+Seas would rise when I gave the word 
+巨浪也曾因我之命澎湃
+Now in the morning I sleep alone 
+而今我却在黎明独自入眠
+Sweep the streets I used to own 
+在曾属于我的大道落寞徘徊&lt;/p&gt;
+
+&lt;p&gt;I used to roll the dice 
+大千世界曾由我主宰
+Feel the fear in my enemy’s eyes 
+尽情品味惊恐在死敌瞳孔绽开
+Listen as the crowd would sing: 
+欣然倾听百姓高歌喝彩
+“Now the old king is dead! Long live the king!” 
+“先王亡矣！”“新王万代！”
+One minute I held the key 
+此刻我手握权位经脉
+Next the walls were closed on me 
+转瞬才知宫墙深似海
+And I discovered that my castles stand 
+恍然发现我的城池
+Upon pillars of salt, pillars of sand 
+基底散如盐沙乱似尘埃&lt;/p&gt;
+
+&lt;p&gt;I hear Jerusalem bells a-ringing 
+听那耶路撒冷钟声传来
+Roman Cavalry choirs are singing 
+罗马骑兵歌声震彻山海
+Be my mirror my sword and shield 
+担当我的明镜，利剑和盾牌
+My missionaries in a foreign field 
+我的传教士屹立边疆之外
+For some reason I can not explain 
+只因一些缘由我无法释怀
+Once you go there was never, never an honest word 
+一旦你离开这里便不再,不再有逆耳忠言存在
+That was when I ruled the world 
+而这便是我统治的时代&lt;/p&gt;
+
+&lt;p&gt;It was the wicked and wild wind 
+凛冽邪风呼啸袭来
+Blew down the doors to let me in. 
+吹散重门使我深陷阴霾
+Shattered windows and the sound of drums 
+断壁残垣礼崩乐坏
+People could not believe what I’d become 
+世人不敢相信我已当年不再
+Revolutionaries Wait 
+起义大军翘首期待
+For my head on a silver plate 
+有朝一日我站上断头台
+Just a puppet on a lonely string 
+恰如傀儡随吊线寂寞摇摆
+Oh who would ever want to be king? 
+悲哉，谁又曾渴望万人膜拜？&lt;/p&gt;
+
+&lt;p&gt;I hear Jerusalem bells a-ringing 
+听那耶路撒冷钟声传来
+Roman Cavalry choirs are singing 
+罗马骑兵歌声震彻山海
+Be my mirror my sword and shield 
+担当我的明镜，利剑和盾牌
+My missionaries in a foreign field 
+我的传教士屹立边疆之外
+For some reason I can not explain 
+只因一些缘由我无法释怀
+I know Saint Peter won’t call my name 
+我亦知天堂之门不会为我敞开
+Never an honest word 
+不再有逆耳忠言存在
+But that was when I ruled the world 
+而这便是我统治的时代&lt;/p&gt;
+
+&lt;p&gt;(Ohhhhh Ohhh Ohhh) 
+(哦哦哦)
+Hear Jerusalem bells a-ringing 
+听那耶路撒冷钟声传来
+Roman Cavalry choirs are singing 
+罗马骑兵歌声震彻山海
+Be my mirror my sword and shield 
+担当我的明镜，利剑和盾牌
+My missionaries in a foreign field 
+我的传教士屹立边疆之外
+For some reason I can not explain 
+只因一些缘由我无法释怀
+I know Saint Peter won’t call my name 
+我亦知天堂之门不会为我敞开
+Never an honest word 
+不再有逆耳忠言存在
+But that was when I ruled the world 
+而这便是我统治的时代&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 May 2016 00:31:43 +0800</pubDate>
+        <link>http://tsnumidc.github.io/general/2016/05/13/welcome-to-jekyll-copy-20.html</link>
+        <guid isPermaLink="true">http://tsnumidc.github.io/general/2016/05/13/welcome-to-jekyll-copy-20.html</guid>
+        
+        
+        <category>General</category>
+        
+      </item>
+    
+      <item>
+        <title>Immortals.</title>
+        <description>&lt;p&gt;They say we are what we are 
+人常说我们本性难移
+But we don’t have to be 
+但我们不必如此
+I’m bad behavior but I do it in the best way 
+我虽常有恶行 却倚靠良策
+I’ll be the watcher (watcher) 
+我是
+Of the eternal flame 
+永恒火焰的看守者
+I’ll be the guard dog 
+我是
+of all your fever dreams 
+你一切美梦的守护者
+Oooooooh 
+哦
+I am the sand in the bottom half 
+我是沙漏瓶中
+Of the hourglass (glass, glass) 
+流动的时间
+Oooooooh 
+哦
+I try to picture me without you but I can’t 
+努力想象没有你的未来 但我做不到
+Cause we could be Immortals, Immortals 
+因为我们本应不朽 不朽
+Just not for long, for long 
+不用太久
+And live with me forever now 
+只要现在与我一起度过永恒
+Pull the blackout curtains down 
+放下遮光窗帘
+Just not for long, for long 
+不用太久
+Because we could be Immooooooo- Immortals 
+因为你我将会永恒
+Immooooooo- Immortals 
+永恒不朽
+Immooooooo- Immortals 
+流芳百世
+Immooooooo- Immortals 
+永恒不朽
+Sometimes the only pay off 
+有时候 唯一
+For having any faith 
+拥有希望的付出
+Is when it’s tested again and again 
+是不断尝试
+Everyday 
+每日每夜
+I’m still comparing your past 
+我仍在用你的过去
+To my future 
+与我的未来对比
+It might be your wound 
+那可能是你的伤口
+but they’re my sutures 
+但也是我的缝合线
+Oooooooh 
+哦
+I am the sand in the bottom half 
+我是沙漏瓶中
+Of the hourglass (glass, glass) 
+流动的时间
+Oooooooh 
+哦
+I try to picture me without you but I can’t 
+努力想象没有你的未来 但我做不到
+Cause we could be Immortals, Immortals 
+因为我们本应不朽 不朽
+Just not for long, for long 
+不用太久
+And live with me forever now 
+只要现在与我一起度过永恒
+Pull the blackout curtains down 
+放下遮光窗帘
+Just not for long, for long 
+不用太久
+Because we could be Immooooooo- Immortals 
+因为你我将会永恒
+Immooooooo- Immortals 
+永恒不朽
+Immortals 
+永恒不朽
+And live with me forever now 
+现在与我一起度过永恒
+Pull the blackout curtains down 
+放下遮光窗帘
+Because we could be Immortals, Immortals 
+因为你我将会永恒
+Just not for long, for long 
+不用太久
+We could be Immooooooo- Immortals 
+我们可以永恒不朽
+Immooooooo- Immortals 
+永恒不朽
+Immooooooo- Immortals 
+永恒不朽
+Immooooooo- Immortals 
+永恒不朽&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 May 2016 00:31:43 +0800</pubDate>
+        <link>http://tsnumidc.github.io/poems/2016/05/13/welcome-to-jekyll-copy-2.html</link>
+        <guid isPermaLink="true">http://tsnumidc.github.io/poems/2016/05/13/welcome-to-jekyll-copy-2.html</guid>
+        
+        
+        <category>poems</category>
         
       </item>
     
